@@ -1,0 +1,54 @@
+com/example/steamapp/PlayerSummaryAdapter.java
+ com.example.steamapp.PlayerSummaryAdapter
+ com.example.steamapp.PlayerSummaryAdapter$OnPlayerSummaryItemClickListener
+ com.example.steamapp.PlayerSummaryAdapter$PlayerSummaryItemViewHolder
+ com.example.steamapp.PlayerSummaryAdapter$PlayerSummaryItemViewHolder$1
+com/example/steamapp/SettingsActivity.java
+ com.example.steamapp.SettingsActivity
+com/example/steamapp/data/AppDatabase.java
+ com.example.steamapp.data.AppDatabase
+com/example/steamapp/data/SteamAPIData.java
+ com.example.steamapp.data.SteamAPIData
+com/example/steamapp/data/SettingsFragment.java
+ com.example.steamapp.data.SettingsFragment
+com/example/steamapp/MainActivity.java
+ com.example.steamapp.MainActivity
+ com.example.steamapp.MainActivity$1
+ com.example.steamapp.MainActivity$2
+ com.example.steamapp.MainActivity$3
+com/example/steamapp/SavedPlayerSummaryViewModel.java
+ com.example.steamapp.SavedPlayerSummaryViewModel
+com/example/steamapp/data/PlayerSummary.java
+ com.example.steamapp.data.PlayerSummary
+ com.example.steamapp.data.PlayerSummary$JsonDeserializer
+com/example/steamapp/utils/SteamAppUtils.java
+ com.example.steamapp.utils.SteamAppUtils
+ com.example.steamapp.utils.SteamAppUtils$SteamSearchResults
+com/example/steamapp/PlayerSummaryViewModel.java
+ com.example.steamapp.PlayerSummaryViewModel
+com/example/steamapp/data/SteamAppService.java
+ com.example.steamapp.data.SteamAppService
+com/example/steamapp/data/Game.java
+ com.example.steamapp.data.Game
+com/example/steamapp/data/Players.java
+ com.example.steamapp.data.Players
+com/example/steamapp/data/SavedPlayersRepository.java
+ com.example.steamapp.data.SavedPlayersRepository
+ com.example.steamapp.data.SavedPlayersRepository$1
+ com.example.steamapp.data.SavedPlayersRepository$2
+com/example/steamapp/data/OwnedGames.java
+ com.example.steamapp.data.OwnedGames
+com/example/steamapp/data/LoadingStatus.java
+ com.example.steamapp.data.LoadingStatus
+com/example/steamapp/data/PlayerSummaryRepository.java
+ com.example.steamapp.data.PlayerSummaryRepository
+ com.example.steamapp.data.PlayerSummaryRepository$1
+com/example/steamapp/BuildConfig.java
+ com.example.steamapp.BuildConfig
+com/example/steamapp/SavedPlayerSummaryAdapter.java
+ com.example.steamapp.SavedPlayerSummaryAdapter
+ com.example.steamapp.SavedPlayerSummaryAdapter$OnSearchResultClickedListener
+ com.example.steamapp.SavedPlayerSummaryAdapter$SavedPlayerSummaryViewHolder
+ com.example.steamapp.SavedPlayerSummaryAdapter$SavedPlayerSummaryViewHolder$1
+com/example/steamapp/data/SavedPlayersDao.java
+ com.example.steamapp.data.SavedPlayersDao

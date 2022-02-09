@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".VideoPlayerActivity"
+    android:background="#f2f2f2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:id="@+id/actionbartitle"
+        android:background="@color/drawer_color"
+        android:maxLines="1"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="     AppSteam"
+        android:paddingLeft="15dp"
+        android:gravity="center_vertical"
+        android:drawableLeft="@drawable/ic_back"
+        android:textColor="@android:color/white"
+        android:ellipsize="end"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:text="Steam Guide for Beginners"/>
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
